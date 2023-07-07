@@ -17,6 +17,7 @@ the Swing toolkit.
 The Swingy template provides the following features:
 
 - FlatLaf Theme
+- Simple database with read-write-update operations using json files
 - Model-View-Controller (MVC) architectural pattern
 - Swing GUI components for building the user interface
 - Example controllers, models, validations, and views to demonstrate the usage
